@@ -63,1502 +63,14 @@
             }
         ]
     },
-    {
-        "id": 2222,
-        "title": "Perfumery-2",
+     {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
         "type": "Perfumery",
         "brand": "Perfumery",
         "collection": ["new products"],
         "category": "Perfumery",
-        "price": 500,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Perfumery/P802046(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Perfumery/P802046(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 2223,
-        "title": "Perfumery-3",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "Perfumery",
-        "brand": "Perfumery",
-        "collection": ["new products"],
-        "category": "Perfumery",
-        "price": 600,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Perfumery/P902012(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Perfumery/P902012(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 2224,
-        "title": "Perfumery-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "Perfumery",
-        "brand": "Perfumery",
-        "collection": ["new products"],
-        "category": "Perfumery",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Perfumery/P903001(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Perfumery/P903001(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3331,
-        "title": "Rosewood-1",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/904-2018-01-02-12-20-22-8907043190571.jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/R304604(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3332,
-        "title": "Rosewood-2",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 12300,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R313069(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/R304604(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3333,
-        "title": "Rosewood-3",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 9000,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R304604(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/904-2018-01-02-12-20-22-8907043190571.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 3334,
-        "title": "R-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R301391(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/904-2018-01-02-12-20-22-8907043190571.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 3335,
-        "title": "R-5",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R304537(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/904-2018-01-02-12-20-22-8907043190571.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3336,
-        "title": "R-6",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R312041(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/904-2018-01-02-12-20-22-8907043190571.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3337,
-        "title": "R-7",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R311184(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/R311184(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 3338,
-        "title": "R304604(300)-8",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R313169(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/R313169(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 3339,
-        "title": "R304604(300)-9",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "rosewood",
-        "brand": "rosewood",
-        "collection": ["new products"],
-        "category": "rosewood",
-        "price": 1700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Rosewood/R301391(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Rosewood/R301391(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 4441,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "bidriware",
-        "brand": "bidriware",
-        "collection": ["new products"],
-        "category": "bidriware",
-        "price": 2700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/B106158(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/B106158(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 4442,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "bidriware",
-        "brand": "bidriware",
-        "collection": ["new products"],
-        "category": "bidriware",
-        "price": 14700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/B165599(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/B165599(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 4443,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "bidriware",
-        "brand": "bidriware",
-        "collection": ["new products"],
-        "category": "bidriware",
-        "price": 15700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/B105596(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/B105596(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 4444,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "bidriware",
-        "brand": "bidriware",
-        "collection": ["new products"],
-        "category": "bidriware",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/B105595(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/B105595(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 5551,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "shivani",
-        "brand": "shivani",
-        "collection": ["new products"],
-        "category": "shivani",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/06(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/06(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 6661,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "metalcrafts",
-        "brand": "metalcrafts",
-        "collection": ["new products"],
-        "category": "metalcrafts",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/M301218(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/M301218(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 7771,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "bronze",
-        "brand": "bronze",
-        "collection": ["new products"],
-        "category": "bronze",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/M102840(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/M102840(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 8881,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "lacquerware",
-        "brand": "lacquerware",
-        "collection": ["new products"],
-        "category": "lacquerware",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/L103127(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/L103127(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-    {
-        "id": 9991,
-        "title": "R304604(300)-4",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "dhurries",
-        "brand": "dhurries",
-        "collection": ["new products"],
-        "category": "dhurries",
-        "price": 700,
-        "sale": true,
-        "discount": "10",
-        "stock": 9,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/Bidriware/L103127(300).jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/Bidriware/L103127(300).jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-
-
-
-
-
-
-
-
-    {
-        "id": 224,
-        "title": "SandalWood 1",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalwood-1",
-        "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 14578,
-        "sale": true,
-        "discount": "40",
-        "stock": 5,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            }
-            
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/sandalwood/915-2018-06-18-03-37-21-SandalwoodFluteKrishna.jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/sandalwood/915-2018-06-18-03-37-21-SandalwoodFluteKrishna.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            }
-        ]
-    },
-    {
-        "id": 225,
-        "title": "SandalWood 2",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
-        "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 145,
-        "sale": true,
-        "discount": "40",
-        "stock": 5,
-        "new": true,
-        "tags": [
-            "new",
-            "s",
-            "m",
-            "yellow",
-            "white",
-            "pink",
-            "nike"
-        ],
-        "variants": [{
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "s",
-                "color": "yellow",
-                "image_id": 111
-            },
-            {
-                "variant_id": 101,
-                "id": 1,
-                "sku": "sku1",
-                "size": "m",
-                "color": "yellow",
-                "image_id": 111
-            }
-           
-           
-           
-        ],
-        "images": [{
-                "image_id": 111,
-                "id": 1,
-                "alt": "yellow",
-                "src": "assets/images/sandalwood/916-2018-06-18-03-40-53-SandalwoodStandingGanesha.jpg",
-                "variant_id": [
-                    101,
-                    104
-                ]
-            },
-            {
-                "image_id": 112,
-                "id": 1,
-                "alt": "white",
-                "src": "assets/images/sandalwood/916-2018-06-18-03-40-53-SandalwoodStandingGanesha.jpg",
-                "variant_id": [
-                    102,
-                    105
-                ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/916-2018-06-18-03-40-53-SandalwoodStandingGanesha.jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
-            }
-        ]
-    },
-    {
-        "id": 226,
-        "title": "SandalWood 3",
-        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
-        "collection": ["new products"],
-        "category": "sandalWood",
         "price": 1000,
         "sale": true,
         "discount": "10",
@@ -1597,7 +109,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S318367(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1607,36 +119,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S318367(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/916-2018-06-18-03-40-53-SandalwoodStandingGanesha.jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-    {
-        "id": 226,
-        "title": "SandalWood 4",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 145,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -1671,7 +172,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S104329(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1681,36 +182,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S104329(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/916-2018-06-18-03-40-53-SandalwoodStandingGanesha.jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-    {
-        "id": 227,
-        "title": "SandalWood-5",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 145,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -1745,7 +235,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S220414(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1755,37 +245,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S220414(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/S220414(300).jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-
-    {
-        "id": 2677,
-        "title": "SandalWood-6",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 1453,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -1820,7 +298,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S213244(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1830,36 +308,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S213244(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/S213244(300).jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-    {
-        "id": 2678,
-        "title": "SandalWood-7",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 1453,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -1894,7 +361,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S114019(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1904,36 +371,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S114019(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/S114019(300).jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-    {
-        "id": 2679,
-        "title": "SandalWood-8",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 1453,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -1968,7 +424,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S318276(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -1978,36 +434,25 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S318276(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
-            },
-            {
-                "image_id": 113,
-                "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/S318276(300).jpg",
-                "variant_id": [
-                    103,
-                    106
-                ]
             }
         ]
-    },
-    {
-        "id": 26710,
-        "title": "SandalWood-9",
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
-        "type": "sandalWood",
-        "brand": "sandalWood-2",
+        "type": "Perfumery",
+        "brand": "Perfumery",
         "collection": ["new products"],
-        "category": "sandalWood",
-        "price": 1453,
+        "category": "Perfumery",
+        "price": 1000,
         "sale": true,
-        "discount": "40",
-        "stock": 5,
+        "discount": "10",
+        "stock": 9,
         "new": true,
         "tags": [
             "new",
@@ -2042,7 +487,7 @@
                 "image_id": 111,
                 "id": 1,
                 "alt": "yellow",
-                "src": "assets/images/sandalwood/S704539(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     101,
                     104
@@ -2052,22 +497,137 @@
                 "image_id": 112,
                 "id": 1,
                 "alt": "white",
-                "src": "assets/images/sandalwood/S704539(300).jpg",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
                     102,
                     105
                 ]
+            }
+        ]
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+        "type": "Perfumery",
+        "brand": "Perfumery",
+        "collection": ["new products"],
+        "category": "Perfumery",
+        "price": 1000,
+        "sale": true,
+        "discount": "10",
+        "stock": 9,
+        "new": true,
+        "tags": [
+            "new",
+            "s",
+            "m",
+            "yellow",
+            "white",
+            "pink",
+            "nike"
+        ],
+        "variants": [{
+                "variant_id": 101,
+                "id": 1,
+                "sku": "sku1",
+                "size": "s",
+                "color": "yellow",
+                "image_id": 111
             },
             {
-                "image_id": 113,
+                "variant_id": 101,
                 "id": 1,
-                "alt": "pink",
-                "src": "assets/images/sandalwood/S704539(300).jpg",
+                "sku": "sku1",
+                "size": "m",
+                "color": "yellow",
+                "image_id": 111
+            }
+           
+           
+           
+        ],
+        "images": [{
+                "image_id": 111,
+                "id": 1,
+                "alt": "yellow",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
                 "variant_id": [
-                    103,
-                    106
+                    101,
+                    104
+                ]
+            },
+            {
+                "image_id": 112,
+                "id": 1,
+                "alt": "white",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
+                "variant_id": [
+                    102,
+                    105
                 ]
             }
         ]
-    }
-]
+    }, {
+        "id": 2221,
+        "title": "Perfumery-1",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+        "type": "Perfumery",
+        "brand": "Perfumery",
+        "collection": ["new products"],
+        "category": "Perfumery",
+        "price": 1000,
+        "sale": true,
+        "discount": "10",
+        "stock": 9,
+        "new": true,
+        "tags": [
+            "new",
+            "s",
+            "m",
+            "yellow",
+            "white",
+            "pink",
+            "nike"
+        ],
+        "variants": [{
+                "variant_id": 101,
+                "id": 1,
+                "sku": "sku1",
+                "size": "s",
+                "color": "yellow",
+                "image_id": 111
+            },
+            {
+                "variant_id": 101,
+                "id": 1,
+                "sku": "sku1",
+                "size": "m",
+                "color": "yellow",
+                "image_id": 111
+            }
+           
+           
+           
+        ],
+        "images": [{
+                "image_id": 111,
+                "id": 1,
+                "alt": "yellow",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
+                "variant_id": [
+                    101,
+                    104
+                ]
+            },
+            {
+                "image_id": 112,
+                "id": 1,
+                "alt": "white",
+                "src": "assets/images/Perfumery/930-2018-07-12-03-23-11-8907043237160.jpg",
+                "variant_id": [
+                    102,
+                    105
+                ]
+            }
+        ]
+    }]
